@@ -1,4 +1,4 @@
-package: github.com/squat/drae
+package: github.com/die-fernandez/drae
 import:
 - package: github.com/PuerkitoBio/goquery
 - package: github.com/Sirupsen/logrus
